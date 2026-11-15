@@ -317,3 +317,5 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 - **Email**: info@elvez.co.jp
 - **Recipient**: Elvez Inc. (株式会社エルブズ)
+
+## 練習用更新行
